@@ -19,7 +19,8 @@
 			<h1 class="title">Configure and create a picture of Window</h1>
 			<article>
 				Interface to set basic options for generation of a picture of window. <br>
-				All work will be done in Light_GDClass which relies on gorgeous and majestic PHP GD.
+				All work will be done in Light_GDClass which relies on gorgeous and majestic PHP GD.<br />
+				<span style="font-size:8px;">&copy; <a style="color:#000;" href="http://www.webtag.ru">webtag.ru</a></span>
 			</article>
 		</header>
 		<section class="settings">
